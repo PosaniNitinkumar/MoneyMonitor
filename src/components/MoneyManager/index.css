@@ -1,0 +1,43 @@
+.main {
+  padding: 25px;
+}
+
+.background {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  height: 200px;
+  width: 950px;
+  padding: 25px;
+  padding-left: 50px;
+  border-radius: 30px;
+}
+.transaction {
+  width: 400px;
+  margin: 25px 25px 25px 0px;
+  border: 1px solid #cbd5e1;
+  border-radius: 15px;
+}
+.history {
+  width: 500px;
+  margin: 25px 0px 25px 25px;
+  border: 1px solid #cbd5e1;
+  border-radius: 15px;
+}
+.third {
+  display: flex;
+  flex-direction: row;
+}
+.form-description {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  order: 1;
+}

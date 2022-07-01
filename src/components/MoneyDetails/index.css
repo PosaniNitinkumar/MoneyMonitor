@@ -1,0 +1,49 @@
+.image {
+  width: 65px;
+  height: 65px;
+  margin-right: 20px;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  width: 950px;
+}
+.Balance {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 25px;
+  width: 300px;
+  height: 125px;
+  margin: 25px 25px 25px 0px;
+  border-radius: 15px;
+}
+.income {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 25px;
+  height: 125px;
+  width: 300px;
+  margin: 25px 25px 25px 25px;
+  border-radius: 15px;
+}
+.Expenses {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 25px;
+  width: 300px;
+  height: 125px;
+  margin: 25px 0px 25px 25px;
+  border-radius: 15px;
+}
+.card {
+  margin-left: 25px;
+}
